@@ -1,0 +1,21 @@
+% This is an ascii file that defines the boundaries of the parameter space to be explored in the fitting process, as well as the step length applied by simulated annealing along the different dimensions of the parameter space. Each row in the file corresponds to one parameter to be fitted, and thus the number of rows define the number of parameters or the number of dimensions of the parameter space. The columns in the file correspond to the lower (Column #1) and the upper boundary (Column #2) of a parameter interval to be explored, and the step length (Column #3) applied by simulated annealing within the interval.
+%
+% Here, the rows correspond to the following parameters, respectively:
+% ac - one parameter of chilling unit accumulation
+% cc - other parameter of chilling unit accumulation (maximum point of the bell curve in Celsius degree)
+% bf - one parameter of forcing unit accumulation
+% cf - other parameter of forcing unit accumulation (infelxion piont of the sigmoid curve in Celsius degree) 
+% kexp - the transformed speed parameter of forcing accumulation
+%
+% Credits: 
+% Peter Raffai, Ildiko Mesterhazy
+% All rights reserved. (2022)
+% Contact: peter.raffai@ttk.elte.hu
+%
+% Lower		Upper	Step
+0.001		5	0.001			
+0.01		10	0.01	
+-10		-0.01	0.01	
+0.01		20	0.01	
+2		9	0.01        
+				

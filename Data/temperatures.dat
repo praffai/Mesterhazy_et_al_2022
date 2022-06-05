@@ -1,0 +1,15 @@
+% This file contains the daily mean temperatures observed in the synoptic station of Marczell György Main Observatory of Hungarian Meteorological Service (47°25'49.2"N 19°06'43.7"E) between September 1994 and April 2020
+%
+% Columns:
+% T1 - daily mean temperatures in Celsius from 1st September 1994 to 28th May 1995 
+% T2 - daily mean temperatures in Celsius from 1st September 1995 to 28th May 1996
+% [...]
+% T26 - daily mean temperatures in Celsius from 1st September 2019 to 27th May 2020 due to a leap year
+%
+% Credits: 
+% Peter Raffai, Ildiko Mesterhazy
+% All rights reserved. (2022)
+% Contact: peter.raffai@ttk.elte.hu
+%
+% T1	T2	T3	T4	T5	T6	T7	T8	T9	T10	T11	T12	T13	T14	T15	T16	T17	T18	T19	T20	T21	T22	T23	T24	T25	T26
+%%% We temporarily refrain from publishing the data we used due to unsettled copyright issues. Please check back later. %%%
